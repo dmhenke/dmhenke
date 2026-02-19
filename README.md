@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm David Henke</h1>
-<h3 align="center">Computational biologist\nConverting fuzzy numbers into fuzzy insights</h3>
+<h1 align="center">Hello 👋, I'm David Henke</h1>
+<h3 align="center">Computational biologist</h3>
+<h3 align="center">Converting fuzzy numbers into fuzzy insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmhenke&label=Profile%20views&color=0e75b6&style=flat" alt="dmhenke" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmhenke" alt="dmhenke" /></a> </p>
 
-- ⚡ Fun fact **this landing page will be a workin progress for a *while***
+- ⚡ Fun fact **This landing page will be a workin progress for a *while*.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

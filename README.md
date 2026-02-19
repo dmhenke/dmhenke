@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmhenke&label=Profile%20views&color=0e75b6&style=flat" alt="dmhenke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmhenke" alt="dmhenke" /></a> </p>
+## Stats and development activity 
+![David's GitHub status](https://github-readme-stats.vercel.app/api?username=dmhenke&show_icons=true&theme=onedark)
+
 
 - ⚡ Fun fact **This landing page will be a workin progress for a *while*.**
 

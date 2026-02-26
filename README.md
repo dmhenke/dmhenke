@@ -4,25 +4,31 @@
 
 <div align="center">
 
-<!-- ── HEADER ─────────────────────────────────────────────────── -->
-<h1 align="center">Hello 👋, I'm David Henke</h1>
-<h3 align="center">Computational biologist</h3>
-<h3 align="center">Converting fuzzy numbers into fuzzy insights</h3>
+<h1>Hello 👋, I'm David Henke</h1>
+<h3>Computational biologist</h3>
+<h3>Converting fuzzy numbers into fuzzy insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmhenke&label=Profile%20views&color=0e75b6&style=flat" alt="dmhenke" /> </p>
+</div>
 
-- ⚡ Fun fact **This landing page will be a workin progress for a *while*.**
-🚀 Featured Project
+⚡ Fun fact: **This landing page will be a work in progress for a *while*.**
+
+---
+
+## 🚀 Featured Project
+
 <div align="center">
-BioPrimeLASSO
-Bio-Primed LASSO for Biomarker Discovery
+
+### [BioPrimeLASSO](https://github.com/dmhenke/BioPrimeLASSO)
+**[Bio-Primed LASSO for Biomarker Discovery](https://github.com/dmhenke/BioPrimeLASSO)**
+
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41698--025--00825--9-B31B1B?style=for-the-badge&logo=doi&logoColor=white)](https://www.nature.com/articles/s41698-025-00825-9)
 [![GitHub Stars](https://img.shields.io/github/stars/dmhenke/BioPrimeLASSO?style=for-the-badge&color=f4d03f&logo=github)](https://github.com/dmhenke/BioPrimeLASSO/stargazers)
 [![License: GPL-3](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)](https://github.com/dmhenke/BioPrimeLASSO/blob/main/LICENSE)
 
 </div>
 
-Standard LASSO is statistically elegant but biologically blind — in collinear omics data, it will happily select a gene simply because it lives next door to the real driver. **BioPrimeLASSO** seeks to circumvent this false positive by incorporating exterior information, protein–protein interaction (PPI) network scores, directly into the LASSO regularization penalty.  Furthermore, we introduce a tunable parameter Φ that controls how strongly biological prior knowledge steers feature selection.
+Standard LASSO is statistically elegant but biologically blind — in collinear omics data, it will happily select a gene simply because it lives next door to the real driver. **BioPrimeLASSO** seeks to circumvent this false positive by incorporating exterior information, protein–protein interaction (PPI) network scores, directly into the LASSO regularization penalty. Furthermore, we introduce a tunable parameter Φ that controls how strongly biological prior knowledge steers feature selection.
+
 ```r
 # Install
 devtools::install_github("dmhenke/BioPrimeLASSO")
@@ -50,38 +56,23 @@ results <- bplasso(scale(X), y, scores,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-## Stats and development activity 
-![David's GitHub status](https://github-readme-stats.vercel.app/api?username=dmhenke&show_icons=true&theme=onedark)
-  
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dmhenke&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhenke&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/henke_tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henke_tweets" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/henkedavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henkedavid" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-</div>
+<p align="left">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=dmhenke&label=Profile%20views&color=0e75b6&style=flat" alt="dmhenke" />
 
 ---
 
 <div align="center">
 <sub>
-Learn to appreciate the mountain on which you’re already standing
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=dmhenke&style=flat-square&color=003087" alt="Profile views" />
+Learn to appreciate the mountain on which you're already standing
 </sub>
 </div>
